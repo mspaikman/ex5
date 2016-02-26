@@ -12,7 +12,7 @@ body {
 
 .equalHeightWrapper {
   display: flex;
-  border-collappse: collapse;
+  border-collapse: collapse;
 }
 
 .content {
